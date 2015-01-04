@@ -8,8 +8,11 @@ Unity Theme was removed (I don't use it and therefore cannot test it.)
 
 ## Installation Instructions
 *Copy folder to /usr/share/themes
+
 *Use a theme program to change themes (I recommend lxappearance.)
+
 *__Requires gtk-engine-unico__
+
 *__Requires gtk-engine-murrine__
 
 ## Recommendations
